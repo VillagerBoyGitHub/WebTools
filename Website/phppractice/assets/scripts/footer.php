@@ -1,0 +1,1 @@
+<footer>Website by Villager Boy, ban plugin by Rex.</footer>
