@@ -66,7 +66,7 @@
                 '0',
                 '$inheritance',
                 '$perms');
-                "); //Submits the input
+                ");
                 echo 'Success! You can now return to your game and assign the rank.
             
                 <a href="list.php">Back to list</a>
